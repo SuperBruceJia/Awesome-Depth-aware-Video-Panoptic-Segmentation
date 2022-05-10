@@ -1,4 +1,4 @@
-# Awesome Depth-aware Video Panoptic Segmentation (DVPS)
+# Depth-aware Video Panoptic Segmentation (DVPS) Survey
 
 | Year |    Venue     |                            Title                             |                          Codes                          |
 | :--: | :----------: | :----------------------------------------------------------: | :-----------------------------------------------------: |
